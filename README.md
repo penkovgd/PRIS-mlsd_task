@@ -20,12 +20,12 @@
 # Построенные диаграммы
 
 - Бизнес процессы – BPMN:
-    - До: ![BPMN_before](diagrams\BPMN_before.svg)
-    - После: ![BPMN_after](diagrams\bpmn_after.svg)
-- Структура данных –  ERD: ![ERD](diagrams\ERD.png)
-- Архитектура системы (свободная нотация): ![Architecture](diagrams\Architecture.png)
-- Структурная UML-диаграмма – диаграмма классов: ![class_uml](diagrams\class_uml.png)
-- Поведенческая UML-диаграмма – диаграмма последовательности: ![sequence_diagram.png](diagrams\sequence_diagram.png)
+    - До: ![BPMN_before](diagrams/BPMN_before.svg)
+    - После: ![BPMN_after](diagrams/bpmn_after.svg)
+- Структура данных –  ERD: ![ERD](diagrams/ERD.png)
+- Архитектура системы (свободная нотация): ![Architecture](diagrams/Architecture.png)
+- Структурная UML-диаграмма – диаграмма классов: ![class_uml](diagrams/class_uml.png)
+- Поведенческая UML-диаграмма – диаграмма последовательности: ![sequence_diagram.png](diagrams/sequence_diagram.png)
 
 
 # Цели и предпосылки
